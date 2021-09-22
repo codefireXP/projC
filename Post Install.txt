@@ -1,0 +1,4 @@
+After the installation. You can use the .c file. And there is no uninstall procedure as the program doesnot have a definite executable. So, just remove 
+or delete the folder for removal from the system.
+
+Enjoy and yes, readme is inside the program itself!

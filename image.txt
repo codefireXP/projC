@@ -1,0 +1,51 @@
+ 					      ||*******************************************||
+ 					      ||========| SUDOKO SOLVER(NOT AI)|===========||
+ 				 	      ||>>|     '------========--------'        |<<||
+ 					      ||>>|      _________________________      |<<||
+ 					      ||>>|     |_H|__|__|__|__|__|__|__|_|     |<<||
+ 					      ||>>|     |__|_E|__|__|__|__|__|_S|_|     |<<||
+ 					      ||>>|     |__|__|_L|__|__|__|_U|__|_|     |<<||
+ 					      ||>>|     |__|__|__|_L|__|_D|__|__|_|     |<<||
+ 					      ||>>|     |__|__|__|__|_O|__|__|__|_|     |<<||
+ 					      ||>>|     |__|__|__|_K|__|__|__|__|_|     |<<||
+ 					      ||>>|     |__|__|_O|__|__|__|__|__|_|     |<<||
+ 					      ||>>|     |__|__|__|__|__|__|__|__|_|     |<<||
+ 				          ||>>|     |__|__|__|__|__|__|__|__|_|     |<<||                              
+ 					      ||=========         Suman           =========||
+ 					      ||=========         Elbina          =========||
+ 					      ||=========         Prince          =========||
+ 					      ||=========         Saurav          =========||
+ 					      ||*******************************************||
+ 					      
+ 					      Usage:
+ 					      
+ 					      1. After you are asked to put the numbers, put them 
+ 					         one after another by pressing space until you reach
+ 					         the 9th number.
+ 					      2. Then, press enter and repeat the process again until
+ 					         all the 9x9 numbers are filled up!
+ 					         
+  					 Here is a sample sudoku. Just copy it and paste in input:
+					   		1 0 3 4 0 0 7 0 9
+					   		0 5 6 0 8 9 0 2 3
+					        0 8 9 1 0 3 4 0 6
+							2 1 4 0 6 5 0 9 7
+							3 0 0 8 0 7 0 1 4
+							8 0 7 0 1 4 0 6 5
+							0 3 1 0 4 0 9 7 8
+							6 4 0 9 7 0 5 3 1
+							0 7 8 0 0 1 0 4 2   
+					    PS: You should get this answer for the sample code
+					      If you don't get this answer, it time you
+					        buy a new computer. Because the code as
+					         of now does not have any bugs. 
+ 							1 2 3 4 5 6 7 8 9
+							4 5 6 7 8 9 1 2 3	
+							7 8 9 1 2 3 4 5 6
+							2 1 4 3 6 5 8 9 7
+							3 6 5 8 9 7 2 1 4
+							8 9 7 2 1 4 3 6 5
+							5 3 1 6 4 2 9 7 8
+							6 4 2 9 7 8 5 3 1
+							9 7 8 5 3 1 6 4 2
+ 					         

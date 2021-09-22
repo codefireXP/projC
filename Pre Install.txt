@@ -1,0 +1,9 @@
+Read this very very carefully first!!!!
+
+
+
+
+For finding the main .c file to build and execute. Go to either of these folders in your C:/ drive and find the Sudoku Solver folder:
+
+1. Program Files
+2. Program Files(x86)
